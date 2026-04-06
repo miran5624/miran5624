@@ -20,8 +20,8 @@
 
 ---
 
-- 👋 Hi, I’m **@YOUR_GITHUB_USERNAME**
-- 👀 I’m passionate about **Frontend Development, Competitive Programming, and Hackathons**
+- 👋 Hi, I’m **Miran**
+- 👀 I’m passionate about **Development, Competitive Programming, and Hackathons**
 - 🎓 B.Tech CSE at NIT Jamshedpur (Class of 2028)
 <br/>
 
@@ -58,32 +58,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🎮 Gaming & Relaxation
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <b>When I'm not coding...</b><br/><br/>
-      I am testing physics engines or exploring historical eras in 
-      <br/><br/>
-      <img src="https://img.shields.io/badge/BeamNG.drive-orange?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Assassin's_Creed-black?style=for-the-badge&logo=ubisoft" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk3Zzh2YmEzZGFhM3BzaXQ0d2Q3Z2gyNzZtbnN0djIzMDYybmowMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u0Je4lbiNpC9GrYiQ9/giphy.gif" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 <br/>
 
 <div align="center">
   <h3>📫 Let's Connect!</h3>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/miran-rahman-242176226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
