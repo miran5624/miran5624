@@ -7,12 +7,12 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=React+%26+Next.js;Hackathon+Enthusiast;Codeforces+Pupil+(1280);I+hate+mosquirtos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=React+%26+Next.js;Hackathon+Enthusiast;Codeforces+Pupil+(1280);I+hate+mosquitos" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" width="180" style="border-radius: 10px; border: 2px solid #2096F3;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1NzlpNnBwa2d2MmJueGJoNnpjbHB0YXhzdzJrczBpMjEyNm9jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CSYkWsdbPh9Cw/giphy.gif" width="180" style="border-radius: 10px; border: 2px solid #2096F3;" />
 
 <br/><br/>
 
@@ -38,8 +38,8 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miran5624&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miran5624&theme=radical" width="48%" />
 </p>
 
 ---
