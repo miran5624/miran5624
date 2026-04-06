@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">Hey there, I'm Miran! <img  width="30px"/></h1>
+<h1 align="center">Hey there 👋, I'm Miran!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miran5624&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=miran5624&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=React+%26+Next.js;Hackathon+Enthusiast;Codeforces+Pupil+(1280);I+hate+mosquitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2096F3&center=true&vCenter=true&width=500&lines=Frontend+%26+Web+App+Developer;Solve+Bugs;Hunt+Mosquitos" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,13 +20,17 @@
 
 ---
 
-- 👋 Hi, I’m **Miran**
-- 👀 I’m passionate about **Development, Competitive Programming, and Hackathons**
+### About Me
+
+- 💻 I am a passionate developer with a love for building **seamless web applications** and solving **algorithmic challenges**.
+- 👋 Hi, I’m **@miran5624**
+- 👀 I’m passionate about **Frontend Development, Competitive Programming, and Hackathons**
 - 🎓 B.Tech CSE at NIT Jamshedpur (Class of 2028)
+- 🌱 Currently learning **Data Structures & Advanced Frontend Patterns**
+
 <br/>
 
 <p align="center">
-  I am a passionate developer with a love for building <b>seamless web applications</b> and solving <b>algorithmic challenges</b>. 
   I enjoy exploring new technologies, participating in hackathons, and creating cool things with code.
 </p>
 
@@ -36,7 +40,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miran5624&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miran5624&theme=radical" width="48%" />
@@ -58,14 +63,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+### 📫 Let's Connect!
+
+- 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- 💻 **GitHub:** [Follow me on GitHub](https://github.com/miran5624)
+
 
 
 ---
 <br/>
-
-<div align="center">
-  <h3>📫 Let's Connect!</h3>
-  <a href="https://www.linkedin.com/in/miran-rahman-242176226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
