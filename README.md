@@ -7,12 +7,12 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2096F3&center=true&vCenter=true&width=500&lines=Frontend+%26+Web+App+Developer;Solve+Bugs;Hunt+Mosquitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Systems;Algorithmic+Problem+Solver;...and+I+absolutely+hate+mosquitos." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1NzlpNnBwa2d2MmJueGJoNnpjbHB0YXhzdzJrczBpMjEyNm9jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CSYkWsdbPh9Cw/giphy.gif" width="180" style="border-radius: 10px; border: 2px solid #2096F3;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1NzlpNnBwa2d2MmJueGJoNnpjbHB0YXhzdzJrczBpMjEyNm9jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CSYkWsdbPh9Cw/giphy.gif" width="180" style="border-radius: 10px; border: 2px solid #00F0FF;" />
 
 <br/><br/>
 
@@ -22,16 +22,16 @@
 
 ### About Me
 
-- 💻 I am a passionate developer with a love for building **seamless web applications** and solving **algorithmic challenges**.
+- 💻 I am a passionate engineer obsessed with building **highly scalable backend architectures** and **seamless frontend experiences**.
 - 👋 Hi, I’m **@miran5624**
-- 👀 I’m passionate about **Frontend Development, Competitive Programming, and Hackathons**
-- 🎓 B.Tech CSE at NIT Jamshedpur (Class of 2028)
-- 🌱 Currently learning **Data Structures & Advanced Frontend Patterns**
+- 👀 I thrive on **Full-Stack Development, System Design, and Competitive Programming**.
+- 🎓 B.Tech CSE at NIT Jamshedpur (Class of 2028).
+- 🌱 Currently mastering **Advanced Data Structures & Microservices**.
 
 <br/>
 
 <p align="center">
-  I enjoy exploring new technologies, participating in hackathons, and creating cool things with code.
+  Whether I'm writing robust REST APIs, optimizing database queries, or crafting pixel-perfect UIs, I love translating complex problems into elegant, efficient code.
 </p>
 
 ---
@@ -55,7 +55,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nextjs&perline=8" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,docker,postman&perline=8" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,windows&perline=6" />
   </a>
 </div>
 
@@ -67,7 +69,6 @@
 
 - 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 - 💻 **GitHub:** [Follow me on GitHub](https://github.com/miran5624)
-
 
 
 ---
